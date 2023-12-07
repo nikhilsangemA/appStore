@@ -1,0 +1,7 @@
+.listOfff:hover {
+  cursor: pointer;
+  font-size: 23px;
+  color: #2563eb;
+  align-self: flex-start;
+  border-bottom: 2px solid #2563eb;
+}

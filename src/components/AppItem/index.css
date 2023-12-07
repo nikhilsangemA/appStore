@@ -1,0 +1,23 @@
+.listOff {
+  background-color: #ffffff;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px;
+  padding: 10px;
+  min-width: 150px;
+  max-width: 150px;
+  height: 120px;
+  flex-grow: 1;
+}
+.imgSize {
+  height: 55px;
+  width: 55px;
+}
+.para {
+  font-size: 14px;
+  font-weight: 500;
+  font-family: 'Bree serif';
+}
